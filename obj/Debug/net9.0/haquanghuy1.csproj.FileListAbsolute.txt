@@ -95,3 +95,4 @@ C:\Net_Core_APL\haquanghuy1\obj\Debug\net9.0\refint\haquanghuy1.dll
 C:\Net_Core_APL\haquanghuy1\obj\Debug\net9.0\haquanghuy1.pdb
 C:\Net_Core_APL\haquanghuy1\obj\Debug\net9.0\haquanghuy1.genruntimeconfig.cache
 C:\Net_Core_APL\haquanghuy1\obj\Debug\net9.0\ref\haquanghuy1.dll
+C:\Net_Core_APL\haquanghuy1\obj\Debug\net9.0\haquanghuy1.sourcelink.json
